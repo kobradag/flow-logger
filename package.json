@@ -1,11 +1,11 @@
 {
-  "name": "@aspectron/flow-logger",
+  "name": "@kobradag/flow-logger",
   "version": "1.0.4",
   "description": "Logging Subsystems",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aspectron/flow-logger"
+    "url": "git+https://github.com/kobradag/flow-logger"
   },
   "keywords": [],
   "license": "MIT",
@@ -32,6 +32,11 @@
     "name": "ASPECTRON Inc.",
     "email": "info@aspectron.com",
     "url": "https://aspectron.com"
+  },
+      "author": {
+    "name": "kobradag team",
+    "email": "kobradagceo@gmail.com.com",
+    "url": "https://k0bradag.com"
   },
   "exports__": {
     "node": "./dist/index.js",
